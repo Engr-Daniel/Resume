@@ -1,2 +1,2 @@
 # Resume
-I used this repo to prepared my resume as Data Scientist Intern
+I used this repo to prepare my resume as Data Scientist Intern
